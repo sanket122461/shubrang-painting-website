@@ -30,4 +30,4 @@ use the editor.
 <!-- LOVABLE:END -->
 
 ## Project rules
-- Site is multi-page (one route per section: /, /services, /how-we-work, /projects, /reviews, /contact); shared Navbar/Footer live in __root, section components in `src/components/site/`, contact details in `business.ts`. Why: each page needs its own SEO and distinct content.
+- Site is multi-page (one route per section: /, /about, /services, /how-we-work, /projects, /reviews, /contact); shared Navbar/Footer live in __root, section components in `src/components/site/`, contact details in `business.ts`. Why: each page needs its own SEO and distinct content.

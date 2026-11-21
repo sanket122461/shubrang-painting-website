@@ -7,6 +7,7 @@ import { business } from "./business";
 
 export const links = [
   { to: "/", label: "Home" },
+  { to: "/about", label: "About" },
   { to: "/services", label: "Services" },
   { to: "/how-we-work", label: "How we work" },
   { to: "/projects", label: "Projects" },
